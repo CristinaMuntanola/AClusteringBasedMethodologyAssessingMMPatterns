@@ -10,4 +10,4 @@ The HTML files are:
 
 -Files numbered 2: these correspond to the clustering analyses performed for each technique to group the individuals.
 
--Files numbered 3: these correspond to analyses using the clusters generated in the previous section. They include logistic regressions for hospitalization, ICU admission, and death due to COVID-19; descriptive results of the K-Modes analyses; and Table 1 for each technique, comparing their respective clusters.
+-Files numbered 3: these correspond to analyses using the clusters generated in the previous section. They include logistic regressions for hospitalization, ICU admission, and death due to COVID-19; and Table 1 for each technique, comparing their respective clusters.
